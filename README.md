@@ -129,6 +129,7 @@
 * eFounders https://medium.com/unexpected-token
 * Eharmony http://www.eharmony.com/engineering/
 * Elastic https://www.elastic.co/blog/category/engineering
+* Endtest https://endtest.io/blog
 * Engine Yard https://blog.engineyard.com/
 * Entelo https://sourcecode.entelo.com/
 * Envato https://webuild.envato.com/
